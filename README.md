@@ -1,1 +1,7 @@
-Proyecto de Java Prueba tecnica 1
+# Ejercicios Prácticos Bootcamp Java
+## Objetivos
+asdkahdakjshdakjshdkahsdkajshdkashkashdk
+### Aclaraciones
+asdasdasdasdasdasdasd
+
+
